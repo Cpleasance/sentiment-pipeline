@@ -1,0 +1,6 @@
+timestamp,processed_text,neg,neu,pos,compound,sentiment
+2025-05-01T10:00:00,love product! absolutely fantastic,0.0,0.193,0.807,0.855,Positive
+2025-05-01T10:05:00,expected pretty disappointed,0.425,0.137,0.438,0.0258,Neutral
+2025-05-01T10:10:00,okay job nothing special though,0.315,0.419,0.265,-0.092,Negative
+2025-05-01T10:15:00,terrible experience would recommend!,0.43,0.253,0.317,-0.2244,Negative
+2025-05-01T10:20:00,absolutely brilliant exceeded expectations,0.0,0.423,0.577,0.624,Positive

@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.25
+matplotlib>=3.8
+seaborn>=0.12
+nltk>=3.9.2
+

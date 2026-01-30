@@ -1,0 +1,11 @@
+Sentiment Analysis Summary Report
+========================================
+Total messages analysed: 100
+
+Sentiment distribution:
+  Positive: 63 (63.00%)
+  Negative: 8 (8.00%)
+  Neutral: 29 (29.00%)
+
+Average compound score: 0.2820
+========================================

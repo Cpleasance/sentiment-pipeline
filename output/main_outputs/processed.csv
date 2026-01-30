@@ -1,0 +1,6 @@
+timestamp,text,processed_text
+2025-05-01T10:00:00,I love this product! It's absolutely fantastic.,love product! absolutely fantastic
+2025-05-01T10:05:00,Not what I expected. Pretty disappointed.,expected pretty disappointed
+2025-05-01T10:10:00,"It's okay, does the job. Nothing special though.",okay job nothing special though
+2025-05-01T10:15:00,Terrible experience. Would not recommend!,terrible experience would recommend!
+2025-05-01T10:20:00,Absolutely brilliant. Exceeded my expectations.,absolutely brilliant exceeded expectations
